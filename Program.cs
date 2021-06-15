@@ -24,7 +24,7 @@ namespace Homework_Template
             Console.WriteLine();
             Console.WriteLine();
             Console.WriteLine();
-            Console.WriteLine("Homework 1");
+            Console.WriteLine("Rob Sorbo\nHomework Week 3");
             Console.WriteLine();
             Console.WriteLine("Hit [1] to run Exercise 1.");
             Console.WriteLine("Hit [2] to run Exercise 2.");
@@ -107,7 +107,7 @@ namespace Homework_Template
 
             //Output 1: Composite Formatting
             string Output1;
-            Output1 = String.Format("Composite Formatting:\nHello, {0}! Today is {1}, it's {2:MM/dd/yy hh:mm tt} now", myName, today, currentDate);
+            Output1 = String.Format("Composite Formatting:\nHello, {0}! Today is {1}, it's {2:MM/dd/yy hh:mm tt} now.", myName, today, currentDate);
             Console.WriteLine(Output1);
 
             Console.WriteLine();
