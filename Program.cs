@@ -106,9 +106,7 @@ namespace Homework_Template
             Console.WriteLine("Exercise 2:");
 
             //Output 1: Composite Formatting
-            string Output1;
-            Output1 = String.Format("Composite Formatting:\nHello, {0}! Today is {1}, it's {2:MM/dd/yy hh:mm tt} now.", myName, today, currentDate);
-            Console.WriteLine(Output1);
+           Console.WriteLine("Composite Formatting:\nHello, {0}! Today is {1}, it's {2:MM/dd/yy hh:mm tt} now.", myName, today, currentDate);
 
             Console.WriteLine();
 
