@@ -113,7 +113,7 @@ namespace Homework_Template
             Console.WriteLine();
 
             //Output 2: String interpolation
-            Console.WriteLine("String Interpolation:\nHello, {0}! Today is {1}, it's {2:MM/dd/yy hh:mm tt} now.", myName, today, currentDate);
+            Console.WriteLine($"String Interpolation:\nHello, {myName}! Today is {today}, it's {currentDate:MM/dd/yy hh:mm tt} now.");
 
         }
         private static void DoExe3()
