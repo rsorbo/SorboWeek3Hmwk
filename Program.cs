@@ -75,10 +75,7 @@ namespace Homework_Template
         }
         private static void DoExe1()
         {
-            // Add code for Exercise 1 here
-            // Remove "throw new NotImplementedException()" line of code 
-            //  once you add your code.
-
+         
 
             //Declared variable MSU
             string MSU = "Missouri State University College of Business";
@@ -92,9 +89,7 @@ namespace Homework_Template
         }
         private static void DoExe2()
         {
-            // Add code for Exercise 2 here
-            // Remove "throw new NotImplementedException()" line of code 
-            //  once you add your code.
+           
             //How I got the day of the week: https://www.tutorialspoint.com/chash-program-to-get-current-day-of-week
             //Date and Time formatting: https://docs.microsoft.com/en-us/dotnet/standard/base-types/custom-date-and-time-format-strings 
 
@@ -116,11 +111,7 @@ namespace Homework_Template
         }
         private static void DoExe3()
         {
-            // Add code for Exercise 3 here
-            // Remove "throw new NotImplementedException()" line of code 
-            //  once you add your code.
-
-
+            
             Console.WriteLine("Exercise 3:");
 
             Console.WriteLine("The path is C:\\Windows\\System32");
@@ -128,10 +119,8 @@ namespace Homework_Template
         }
         private static void DoExe4()
         {
-            // Add code for Exercise 4 here
-            // Remove "throw new NotImplementedException()" line of code 
-            //  once you add your code.
-            Console.WriteLine("Exercise 4:\n");
+    
+            Console.WriteLine("Exercise 4:");
 
             //Variables
             const double WITHHOLDING_RATE = 15;
@@ -163,11 +152,7 @@ namespace Homework_Template
         }
         private static void DoExe5()
         {
-            // Add code for Exercise 5 here
-            // Remove "throw new NotImplementedException()" line of code 
-            //  once you add your code.
-
-
+           
             string name, bossName;
             bool areNamesTheSame;
 
